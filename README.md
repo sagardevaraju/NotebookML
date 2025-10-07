@@ -1,6 +1,6 @@
-# NotebookML
+# NotebookOrchestrator
 
-End-to-end machine learning workflow orchestrated with Jupyter notebooks and [Papermill](https://papermill.readthedocs.io/). The project demonstrates how to modularise a typical Kaggle-style pipeline (Titanic survival prediction) into reusable notebooks that can be parameterised and executed programmatically. The workflow supports switching between Pandas, Modin (Ray), and Dask dataframe engines, and uses Optuna for model hyperparameter optimisation.
+End-to-end template machine learning workflow orchestrated with Jupyter notebooks and [Papermill](https://papermill.readthedocs.io/). The project demonstrates how to modularise a typical Kaggle-style pipeline (Titanic survival prediction) into reusable notebooks that can be parameterised and executed programmatically. The workflow supports switching between Pandas, Modin (Ray), and Dask dataframe engines, and uses Optuna for model hyperparameter optimisation.
 
 ## Repository structure
 
